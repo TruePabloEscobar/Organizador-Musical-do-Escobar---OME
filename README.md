@@ -120,4 +120,4 @@ revise o relatório após a execução.
 
 O objetivo do projeto é reduzir o trabalho manual sem colocar a biblioteca do usuário em risco.
 
-Desenvolvido por Pablo EscobarDJ, produtor musical e criador do OME.
+Desenvolvido por Pablo Escobar; O criador do OME.
